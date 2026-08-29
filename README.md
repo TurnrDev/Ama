@@ -7,6 +7,8 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 
 ## Info
 - **Race**: Nakudama
+- **Age**: 9 years, 162 days when we reach Murann (Equal to 17 in Human)
+- **Birthday**: Whilst not from Toril, so time flows different, she reaches 10 years of age on PD81, 340th. So her birthday is equal to PD71, 340th. In Obojima, it's sometime before The Corruption. Ama would remember the Corruption starting when she was a child. 
 - **Class**: Hunter 1
 - **Languages**: Common (from Race), Naku Naku (from Race)
 - **Hit Points (Max)**: 10 + 2
@@ -17,7 +19,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     - Tool Proficiencies: **Divers Armor**
     - Equipment
         - [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content)
-        - a [chest](https://roll20.net/compendium/dnd5e/Items:Chest/#h-Chest)
+        - ~~a [chest](https://roll20.net/compendium/dnd5e/Items:Chest/#h-Chest)~~ - lost after Blink Dog incident.
         - [grappling hook](https://roll20.net/compendium/dnd5e/Items:Grappling%20hook/#h-Grappling%20hook)
         - [fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20Tackle#h-Fishing%20Tackle)
         - a faction coin marking which lodge you trained under
@@ -135,4 +137,25 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
             - If you are traveling alone, you can move stealthily at a normal pace.
             - When you forage, you find twice as much food as you normally would.
             - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
+## History:
+### Obojima
+Ama grew up in Obojima, she was born sometime before the Earthquake which shook the island. Ama grew up in Okiri Village, Obojima. She would travel south to Tidewater to go diving. She had an Elven friend called Hyper, a Bard of the College of Cuisine, she would look up to this old master and bring him her hunt and he would cook her up the best of meals.
+
+Sometime during her 3rd Level, she was busy hunting near The Corruption and spotted a [Blink Dog](https://roll20.net/compendium/dnd5e/Monsters:Blink%20Dog/#h-Blink%20Dog). During the battle, the Blink Dog had her in his grip and teleported. She was teleported, along with the Blink Dog, to somewhere in a forest in Maztica. It put her down, and teleported again. Ama was beaten and bruised, her armor was broken and she was in a strange place.
+
+### Toril (Maztica and Evermeet)
+TBD.
+
+Shortly after appearing in the forest on Maztica, Ama headed the way she thought to Hyper. She quickly realized she was somewhere new. She had to cook her own meals, and try to remember everything Hyper taught her. She spends the next 3 levels training to become a Bard of the College of Cuisine. 
+
+At some point, she met the party and made her way to Evermeet, where they contracted a ship to Murann.
+
+### Murann
+This  is now.
+She is Ranger 3 / Bard 2. Her next level up is already decided. 
+
+
+
+
 
