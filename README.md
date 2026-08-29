@@ -73,6 +73,8 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 **Save DC**: 8 + 2 (prof) + 2 (cha) = 12  
 **Spell atk mod**: +2 (prof) + 2 (cha) = +4  
 
+---
+
 ### Slots
 - **1st**: 5
 
