@@ -96,7 +96,7 @@ target must be no more than 15 feet away from you.
 1) Ranger
     - Starting Equipment:
         - [Leather Armour](https://roll20.net/compendium/dnd5e/Items:Leather%20Armor/#h-Leather%20Armor) (AC 11 + DEX)
-          - Ama sold this and bought Bark Armour, which is also 11 + DEX, however this broke sometime after the Blink Dog incident, after which she aquired a new Leather Armour from Maztica before heading to Evermeet)
+          - Ama sold this and bought Bark Armour, which is also 11 + DEX, however this broke during the Blink Dog incident, after which she aquired a new Leather Armour from Maztica before heading to Evermeet)
         - 2 [Daggers](https://roll20.net/compendium/dnd5e/Items:Dagger/#h-Dagger)
         - [Dungeoneer's Pack](https://roll20.net/compendium/dnd5e/dungeoneer's%20pack#content)
         - a ~~longbow~~ Crossing-Bow (see-below) and a quiver of 20 arrows
