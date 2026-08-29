@@ -12,12 +12,25 @@
 - **Hit Points (Max)**: 10 + 2
 - **Proficiency Bonus**: +2
 - **Alignment**: Chaotic Neutral (TBD)
-- **Ideals, Bonds, Flaws etc**: Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befriended an amazing Chef who would teach her the basics of how to cook and prepare a tasty meal, and in return, she would hunt for him, and bring him exotic animals. She's far more likely to do something if a sweet treat is on the table. Sweet treats mean far more to Ama than money.
+- **Ideals, Bonds, Flaws**:
+  
+    Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befriended an amazing Chef who would teach her the basics of how to cook and prepare a tasty meal, and in return, she would hunt for him, and bring him exotic animals. She's far more likely to do something if a sweet treat is on the table. Sweet treats mean far more to Ama than money.
+- **Background**: Apprentice Diver (Obojima)
+    - Skill Proficiencies: **Athletics**, **Nature**
+    - Tool Proficiencies: **Divers Armor**
+    - Equipment
+        - [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content)
+        - a chest
+        - grappling hook
+        - fishing tackle
+        - a faction coin marking which lodge you trained under
+        - 11 gold flowers
+        - **ONCE A MEMBER ALWAYS A MEMBER**: When visiting either of the _Coastal Diver’s Lodges_, you always have free room and board. Additionally, the lodge will assist you in your endeavors as best they can.
 
 ## Ability Scores & Skills
 - _**Strength**_: 14 (+2)
     - **Save**: +4 
-    - Athletics: +2
+    - **Athletics**: +4
 - _**Dexterity**_: 18 + 2 (from Race ASI) = 20 (+5)
     - **Save**: +7
     - Acrobatics: +5
@@ -30,7 +43,7 @@
     - Arcana: +2
     - History: +2
     - Investigation: +2
-    - Nature: +2
+    - **Nature**: +4
     - Religion: +2
     - Mechanics: +2
     - Salvage: +2
@@ -84,7 +97,7 @@ target must be no more than 15 feet away from you.
     - Starting Equipment:
         - Leather Armour (AC 11 + DEX)
         - 2 Daggers
-        - [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content)
+        - [Dungeoneer's Pack](https://roll20.net/compendium/dnd5e/dungeoneer's%20pack#content)
         - a ~~longbow~~ Crossing-Bow (see-below) and a quiver of 20 arrows
     - Initial HP = 10 + Constitution (CON) Modifier
     - Armor Proficiency: **Light Armor, Medium Armor, Shields**
