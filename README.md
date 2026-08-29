@@ -1,4 +1,4 @@
-# Amai "Ama" "Sweet Tooth" Monozuki
+# Amai "Ama"/"Sweet Tooth" Monozuki
 Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befriended an amazing Chef who would teach her the basics of how to cook and prepare a tasty meal, and in return, she would hunt for him, and bring him exotic animals. She's far more likely to do something if a sweet treat is on the table. Sweet treats mean far more to Ama than money.
 
 ## Initial Rolls
@@ -76,7 +76,8 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 ---
 
 ### Slots
-- **1st**: 6
+- **1st**: 4
+- **2nd**: 2
 
 ### Spells & Cantrips
 #### Cantrips
@@ -290,14 +291,14 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - Max HP increase. Add 1d10 + CON Modifier to the current total Max HP. _Rolled 4, avg 5.5, rounded down to 5. Take 5._
     - One (1) additional 1d10 Hit Die
     - Two (2) new 1st level spells from the Ranger spell list
-    - Two (2) new 1st level spell slots
+    - ~~Two (2) new 1st level spell slots~~
     - [Fighting Style](https://roll20.net/compendium/dnd5e/Ranger#toc_7): Archery. +2 Bonus to Attack rolls on ranged weapons
     - [Spellcasting](https://roll20.net/compendium/dnd5e/Ranger#toc_6) 
 3) Ranger
     - Max HP increase. Add 1d10 + CON Modifier to the current total Max HP. _Rolled 9._
     - One (1) additional 1d10 Hit Die
     - One (1) additional 1st level spell from the Ranger spell list
-    - One (1) additional 1st level spell slot
+    - ~~One (1) additional 1st level spell slot~~
     - [Ranger Archetype](https://roll20.net/compendium/dnd5e/Ranger#toc_12): Hunter
         - **Hunter's Prey: Colossus Slayer**: Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra **1d8** damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
     - [Primeval Awareness](https://roll20.net/compendium/dnd5e/Ranger#toc_13)  
@@ -316,13 +317,13 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - Choice of Proficiency Bonus to any skill (Choose ~~three~~ **one**): **History**
     - Two (2) Cantrips from the Bard spell list
     - Four (4) 1st level spells from the Bard spell list
-    - Two (2) 1st level spell slots
+    - ~~Two (2) 1st level spell slots~~
     - [Bardic Inspiration](https://roll20.net/compendium/dnd5e/Bard#toc_4) (Xd6; X=CHA Ability Modifier)
 5) Bard
     - Max HP increase. Add 1d8 + CON Modifier to the current total Max HP. _Rolled 3, avg 4.5, rounded down to 4. Take 4._
     - One (1) additional 1d8 Hit Die
     - One (1) additional 1st level spell from the Bard spell list
-    - One (1) additional 1st level spell slot
+    - ~~One (1) additional 1st level spell slot~~
     - [Jack of All Trades](https://roll20.net/compendium/dnd5e/Bard#toc_6)
     - [Song of Rest](https://roll20.net/compendium/dnd5e/Bard#toc_7)  
       Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra **1d6** hit points.
