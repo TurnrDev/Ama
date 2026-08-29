@@ -34,33 +34,33 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     - **Athletics**: +5
 - _**Dexterity**_: 18 + 2 (from Race ASI) = 20 (+5)
     - **Save**: +8
-    - Acrobatics: +5
-    - Sleight of Hand: +5
+    - Acrobatics: +6 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Sleight of Hand: +6 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
     - **Stealth**: +8
 - **Constitution**: 14 (+2)
     - Save: +2
 - **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy))
     - Save: +2
-    - Arcana: +2
+    - Arcana: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
     - **History**: +5 (+3 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
-    - Investigation: +2
+    - Investigation: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
     - **Nature**: +5 (+3 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
-    - Religion: +2
-    - Mechanics: +2
-    - Salvage: +2
+    - Religion: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Mechanics: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Salvage: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
 - **Wisdom**: 14 (+2) (+3 (prof bonus) if about Coasts (Natural Explorer))
     - Save: +2
-    - Animal Handling: +2
-    - Insight: +2
-    - Medicine: +2
+    - Animal Handling: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Insight: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Medicine: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
     - **Perception**: +5 (+3 (prof bonus) if about Coasts (Natural Explorer))
     - **Survival**: +5 (Adv on checks to track Beasts (Favored Enemy)) (+2 (prof bonus) if about Coasts (Natural Explorer))
 - **Charisma**: 13 + 1 (from Race ASI) = 14 (+2)
     - Save: +2
-    - Deception: +2
-    - Intimidation: +2
-    - Performance: +2
-    - Persuasion: +2 
+    - Deception: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Intimidation: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Performance: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
+    - Persuasion: +3 ([JoAT](https://roll20.net/compendium/dnd5e/Bard#toc_6))
 
 ## Spellcasting
 ### Ranger
