@@ -92,7 +92,7 @@ tongue to latch onto a surface or creature that is at least
 one size larger than you, pulling yourself toward it. The
 target must be no more than 15 feet away from you.
 
-### The Crossing-Bow
+## The Crossing-Bow
 Ranged weapon (martial, flavoured-longbow, looks like a hand-crossbow)
 
 Ammunition. You can use a weapon that has the Ammunition property to make a Ranged Attack only if you have Ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of Ammunition. Drawing the Ammunition from a quiver, case, or other container is part of the Attack. At the end of the battle, you can recover half your expended Ammunition by taking a minute to Search the Battlefield.
