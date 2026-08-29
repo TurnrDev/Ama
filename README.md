@@ -6,7 +6,16 @@
 
 ## Info
 
-Race: Nakudama
+**Race**: Nakudama
+**Languages**: Common (from Race), Naku Naku (from Race)
+
+## Ability Scores
+- **Strength**: 14
+- **Dexterity**: 18
+- **Constitution**: 14
+- **Intelligence**: 14
+- **Wisdom**: 14
+- **Charisma**: 13
 
 
 ## Nakudama Traits
