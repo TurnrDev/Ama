@@ -24,7 +24,7 @@
         - [grappling hook](https://roll20.net/compendium/dnd5e/Items:Grappling%20hook/#h-Grappling%20hook)
         - [fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20Tackle#h-Fishing%20Tackle)
         - a faction coin marking which lodge you trained under
-        - 11 gold flowers
+        - 11 gold flowers (Obojiman Gold coin, worthless in Faerûn)
         - **ONCE A MEMBER ALWAYS A MEMBER**: When visiting either of the _Coastal Diver’s Lodges_, you always have free room and board. Additionally, the lodge will assist you in your endeavors as best they can.
 
 ## Ability Scores & Skills
@@ -84,8 +84,8 @@ high jump is up to 15 feet, with or without a running start.
 tongue at an object you can see within 15 feet of you that
 weighs no more than 5 pounds and pull it to you, catching
 it in your open hand or allowing it to fall at your feet. If
-the object is being worn or carried by a creature, the crea-
-ture must succeed on a contested Strength check or have
+the object is being worn or carried by a creature, the creature
+must succeed on a contested Strength check or have
 the object pulled away from it.
 - **Latching Tongue**. As a bonus action, you can extend your
 tongue to latch onto a surface or creature that is at least
