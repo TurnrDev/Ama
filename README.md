@@ -327,6 +327,7 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - [Jack of All Trades](https://roll20.net/compendium/dnd5e/Bard#toc_6)
     - [Song of Rest](https://roll20.net/compendium/dnd5e/Bard#toc_7)  
       Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra **1d6** hit points.
+6) **TBC** Bard College of Cuisine
 
 ## History
 ### Obojima
