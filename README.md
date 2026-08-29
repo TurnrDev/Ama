@@ -152,6 +152,51 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.  
     A creature in the area when you cast the spell must succeed on a **Strength** saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a **Strength** check against your spell save DC. On a success, it frees itself.  
     When the spell ends, the conjured plants wilt away.
+- **Comprehend Languages** (Bard, PHB)
+    _1st-level Divination_  
+
+    **Casting Time**: Action or Ritual  
+    **Range**: Self  
+    **Components**: V, S, M (a pinch of soot and salt)  
+    **Duration**: 1 hour
+  
+    For the duration, you understand the literal meaning of any language that you hear or see signed. You also understand any written language that you see, but you must be touching the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn’t decode symbols or secret messages.
+- **Earth Tremor** (Bard, XGE)
+    _1st-level Evocation_
+
+    **Casting Time**: 1 action  
+    **Range**: Self (10-foot radius)  
+    **Components**: V, S  
+    **Duration**: Instantaneous  
+
+    You cause a tremor in the ground within range. Each creature other than you in that area must make a **Dexterity** saving throw. On a failed save, a creature takes **1d6** bludgeoning damage and is knocked prone. If the ground in that area is loose earth or stone, it becomes difficult terrain until cleared, with each 5-foot-diameter portion requiring at least 1 minute to clear by hand.
+
+    **At Higher Levels**. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by **1d6** for each slot level above 1st.
+- **Cure Wounds** (Bard, PHB)
+    _1st-level Evocation_  
+
+    **Casting Time**: 1 action  
+    **Range**: Touch  
+    **Target**: A creature you touch  
+    **Components**: V, S  
+    **Duration**: Instantaneous  
+    
+    A creature you touch regains a number of hit points equal to **1d8** + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+  
+    **At Higher Levels**: When you cast this spell using a spell slot of 2nd level or higher, the Healing increases by **1d8** for each slot level above 1st.
+- **Thunderwave** (Bard, PHB)
+    _1st-level Evocation_  
+
+    **Casting Time**: 1 action  
+    **Range**: Self (15-foot cube)  
+    **Target**: Self (15-foot cube)  
+    **Components**: V S  
+    **Duration**: Instantaneous
+  
+    A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a **Constitution** saving throw. On a failed save, a creature takes **2d8** thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.
+  
+    **At Higher Levels**: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by **1d8** for each slot level above 1st.
+
 
 
 
@@ -262,7 +307,6 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - Two (2) Cantrips from the Bard spell list
     - Four (4) 1st level spells from the Bard spell list
     - Two (2) 1st level spell slots
-    - Spellcasting Ability (CHA)
     - [Bardic Inspiration](https://roll20.net/compendium/dnd5e/Bard#toc_4) (Xd6; X=CHA Ability Modifier)
 
 
