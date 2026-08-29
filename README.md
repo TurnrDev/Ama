@@ -23,7 +23,7 @@
     - **Stealth**: +7
 - **Constitution**: 14 (+2)
     - Save: +2
-- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy))
+- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy) / +2 (prof bonus) if about Coasts (Natural Explorer))
     - Save: +2
     - Arcana: +2
     - History: +2
@@ -32,7 +32,7 @@
     - Religion: +2
     - Mechanics: +2
     - Salvage: +2
-- **Wisdom**: 14 (+2)
+- **Wisdom**: 14 (+2) (+2 (prof bonus) if about Coasts (Natural Explorer))
     - Save: +2
     - Animal Handling: +2
     - Insight: +2
@@ -93,4 +93,4 @@ target must be no more than 15 feet away from you.
     - Proficiency Bonus added to STR and DEX saving throws
     - Choice of Proficiency Bonus to Animal Handling, Athletics, Insight, Investigation, Nature, **Perception**, **Stealth**, and **Survival** (Choose three)
     - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4): Beasts
-    - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5)
+    - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5): Coast
