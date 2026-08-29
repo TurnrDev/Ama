@@ -84,7 +84,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     you deal an extra **1d6** damage to the target whenever
     you hit it with a weapon attack. and you have advantage
     on any **Wisdom (Perception)** or **Wisdom (Survival)**
-    check you make to find it. If the target drops to O hit
+    check you make to find it. If the target drops to 0 hit
     points before this spell ends. you can use a bonus action
     on a subsequent turn of yours to mark a new creature.  
     **_At Higher Levels:_** When you cast this spell using
