@@ -23,7 +23,7 @@
     - **Stealth**: +7
 - **Constitution**: 14 (+2)
     - Save: +2
-- **Intelligence**: 14 (+2)
+- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy))
     - Save: +2
     - Arcana: +2
     - History: +2
@@ -38,7 +38,7 @@
     - Insight: +2
     - Medicine: +2
     - **Perception**: +4
-    - **Survival**: +4 
+    - **Survival**: +4 (Adv on checks to track Beasts (Favored Enemy))
 - **Charisma**: 13 + 1 (from Race ASI) = 14 (+2)
     - Save: +2
     - Deception: +2
@@ -92,5 +92,5 @@ target must be no more than 15 feet away from you.
     - +2 Proficiency Bonus
     - Proficiency Bonus added to STR and DEX saving throws
     - Choice of Proficiency Bonus to Animal Handling, Athletics, Insight, Investigation, Nature, **Perception**, **Stealth**, and **Survival** (Choose three)
-    - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4)
+    - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4): Beasts
     - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5)
