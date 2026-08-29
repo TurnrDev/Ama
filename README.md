@@ -11,11 +11,11 @@
 
 ## Ability Scores
 - **Strength**: 14
-- **Dexterity**: 18
+- **Dexterity**: 18 + 2 (from Race ASI) = 20
 - **Constitution**: 14
 - **Intelligence**: 14
 - **Wisdom**: 14
-- **Charisma**: 13
+- **Charisma**: 13 + 1 (from Race ASI) = 14
 
 
 ## Nakudama Traits
