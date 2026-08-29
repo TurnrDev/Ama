@@ -23,7 +23,7 @@
     - **Stealth**: +7
 - **Constitution**: 14 (+2)
     - Save: +2
-- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy) / +2 (prof bonus) if about Coasts (Natural Explorer))
+- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy) / +2 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
     - Save: +2
     - Arcana: +2
     - History: +2
@@ -37,8 +37,8 @@
     - Animal Handling: +2
     - Insight: +2
     - Medicine: +2
-    - **Perception**: +4
-    - **Survival**: +4 (Adv on checks to track Beasts (Favored Enemy))
+    - **Perception**: +4 (+2 (prof bonus) if about Coasts (Natural Explorer))
+    - **Survival**: +4 (Adv on checks to track Beasts (Favored Enemy)) (+2 (prof bonus) if about Coasts (Natural Explorer))
 - **Charisma**: 13 + 1 (from Race ASI) = 14 (+2)
     - Save: +2
     - Deception: +2
