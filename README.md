@@ -198,8 +198,17 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     A wave of thunderous force sweeps out from you. Each creature in a 15-foot cube originating from you must make a **Constitution** saving throw. On a failed save, a creature takes **2d8** thunder damage and is pushed 10 feet away from you. On a successful save, the creature takes half as much damage and isn’t pushed. In addition, unsecured objects that are completely within the area of effect are automatically pushed 10 feet away from you by the spell’s effect, and the spell emits a thunderous boom audible out to 300 feet.
   
     **At Higher Levels**: When you cast this spell using a spell slot of 2nd level or higher, the damage increases by **1d8** for each slot level above 1st.
+- **Distort Value** (Bard, AI)
+    _1st-level Illusion_
 
+    **Casting Time**: 1 minute  
+    **Range**: Touch  
+    **Components**: V  
+    **Duration**: 8 hours  
 
+    You cast this spell on an object no more than 1 foot on a side, doubling the object's perceived value by adding illusory nourishes or polish to it, or reducing it's perceived value by half with the help of illusory scratches, dents, and other unsightly features. Anyone examining the object can ascertain it's true value with a successful Intelligence (**Investigation**) check against your spell save DC.
+
+    **At Higher Levels**: When you cast this spell using a spell slot of 2nd level or higher, the maximum size of the object increases by 1 foot for each slot level above 1st.
 
 
 ## Nakudama Traits
