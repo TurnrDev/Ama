@@ -63,9 +63,9 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     - Persuasion: +2 
 
 ## Spellcasting
-**Ability**: Wisdom (Ranger)
-**Save DC**: 8 + 2 (prof) + 2 (wis) = 12
-**Spell atk mod**: +2 (prof) + 2 (wis) = +4
+**Ability**: Wisdom (Ranger)  
+**Save DC**: 8 + 2 (prof) + 2 (wis) = 12  
+**Spell atk mod**: +2 (prof) + 2 (wis) = +4  
 
 ### Slots
 - **1st**: 3
@@ -112,6 +112,20 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     
     **_At Higher Levels:_** When you cast this spell using
     a spell slot of 2nd or higher, the damage increases by **1d6** for each slot level above 1st.
+- **Entangle** (Ranger, PHB)  
+    _1st-level Conjuration_
+    
+    **Casting Time**: 1 action  
+    **Range**: 90 feet  
+    **Target**: A point within range  
+    **Components**: V, S  
+    **Duration**: Up to 1 minute
+    
+    Grasping weeds and vines sprout from the ground in a 20-foot square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.  
+    A creature in the area when you cast the spell must succeed on a **Strength** saving throw or be restrained by the entangling plants until the spell ends. A creature restrained by the plants can use its action to make a **Strength** check against your spell save DC. On a success, it frees itself.  
+    When the spell ends, the conjured plants wilt away.
+
+
 
 ## Nakudama Traits
 Your Nakudama character gains traits that enable it to
