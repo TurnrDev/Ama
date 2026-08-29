@@ -63,14 +63,42 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     - Persuasion: +2 
 
 ## Spellcasting
-**Ability**: Wisdom (Ranger)  
+### Ranger
+**Ability**: Wisdom  
 **Save DC**: 8 + 2 (prof) + 2 (wis) = 12  
 **Spell atk mod**: +2 (prof) + 2 (wis) = +4  
+
+### Bard
+**Ability**: Charisma
+**Save DC**: 8 + 2 (prof) + 2 (cha) = 12  
+**Spell atk mod**: +2 (prof) + 2 (cha) = +4  
 
 ### Slots
 - **1st**: 5
 
-### Spells
+### Spells & Cantrips
+#### Cantrips
+- **Starry Wisp** (Bard, PHB)
+    _Cantrip Evocation_  
+
+    **Casting Time**: Action  
+    **Range**: 60 feet  
+    **Target**: one creature or object within range  
+    **Components**: V, S  
+    **Duration**: Instantaneous  
+    
+    You launch a mote of light at one creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes **1d8** Radiant damage, and until the end of your next turn, it emits Dim Light in a 10-foot radius and can’t benefit from the Invisible condition.  
+    **At Higher Levels**: The damage increases by 1d8 when you reach player levels 5 (**2d8**), 11 (**3d8**), and 17 (**4d8**).
+- **Mage Hand** (Bard, PHB)
+    _Cantrip Conjuration_
+
+    **Casting Time**: Action  
+    **Range**: 30 feet  
+    **Components**: V, S  
+    **Duration**: 1 minute  
+    
+    A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration. The hand vanishes if it is ever more than 30 feet away from you or if you cast this spell again. When you cast the spell, you can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. As a Magic action on your later turns, you can control the hand thus again. As part of that action, you can move the hand up to 30 feet. The hand can’t attack, activate magic items, or carry more than 10 pounds.
+#### Level 1
 - **Hunter's Mark** (Ranger, PHB)  
     _1st-level divination_  
     
