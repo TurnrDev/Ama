@@ -37,8 +37,8 @@ swimming speed of 30 feet.
 - **Amphibious**. You can breathe air and water.
 - **Standing Leap**. Your long jump is up to 20 feet and your
 high jump is up to 15 feet, with or without a running start.
-- **Languages**. You can speak, read, and write Common and
-Naku Naku.
+- **Languages**. You can speak, read, and write **Common** and
+**Naku Naku**.
 - **Grasping Tongue**. As a bonus action, you can lash out your
 tongue at an object you can see within 15 feet of you that
 weighs no more than 5 pounds and pull it to you, catching
