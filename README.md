@@ -315,8 +315,8 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - One (1) additional 1st level spell from the Bard spell list
     - One (1) additional 1st level spell slot
     - [Jack of All Trades](https://roll20.net/compendium/dnd5e/Bard#toc_6)
-    - [Song of Rest](https://roll20.net/compendium/dnd5e/Bard#toc_7)
-
+    - [Song of Rest](https://roll20.net/compendium/dnd5e/Bard#toc_7)  
+      Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points by spending Hit Dice at the end of the short rest, each of those creatures regains an extra **1d6** hit points.
 
 ## History
 ### Obojima
