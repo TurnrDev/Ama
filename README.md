@@ -9,10 +9,11 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Race**: Nakudama
 - **Age**: 9 years, 162 days when we reach Murann (Equal to 17 in Human)
 - **Birthday**: Whilst not from Toril, so time flows different, she reaches 10 years of age on PD81, 340th. So her birthday is equal to PD71, 340th. In Obojima, it's sometime before The Corruption. Ama would remember the Corruption starting when she was a child. 
-- **Class**: Hunter 1
-- **Level**: 1
+- **Class**: Hunter 2
+- **Level**: 2
 - **Languages**: Common (from Race), Naku Naku (from Race)
-- **Hit Points (Max)**: 10 + 2
+- **Hit Points (Max)**: 10 + 2 + 5 + 2 = 19
+- **Hit Die**: 2d10
 - **Proficiency Bonus**: +2
 - **Alignment**: Chaotic Neutral (TBD)
 - **Background**: Apprentice Diver (Obojima)
@@ -61,6 +62,47 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
     - Performance: +2
     - Persuasion: +2 
 
+## Spellcasting
+**Ability**: Wisdom (Ranger)
+**Save DC**: 8 + 2 (prof) + 2 (wis) = 12
+**Spell atk mod**: +2 (prof) + 2 (wis) = +4
+
+### Slots
+- **1st**: 2
+
+### Spells
+- **Hunter's Mark** (Ranger, PHB)
+1st-level divination
+Casting Time: 1 bonus action
+Range: 90 feet
+Components: V
+Duration: Concentration, up to 1 hour
+Vou choose a creature you can see within range and
+mystically mark it as your quarry. Until the spell ends,
+you deal an extra 1d6 damage to the target whenever
+you hit it with a weapon attack. and you have advantage
+on any Wisdom (Perception) or Wisdom (Survival)
+check you make to find it. lf the target drops to O hit
+points before this spell ends. you can use a bonus action
+on a subsequent turn of yours to mark a new creature.
+At Higher Leveis. When you cast this spell using
+a spell slot of 3rd or 4th leveI, you can maintain your
+concentration on the spell for up to 8 hours. When you
+use a spell slot of 5th levei or higher, you can maintain
+your concentration on the spell for up to 24 hours.
+- **Water Bullet** (Ranger, Obojima)  
+    _1st-level evocation (Druid, Ranger, Sorcerer, Wizard)_
+    
+    **Casting Time**: 1 action  
+    **Range**: 90 feet  
+    **Components**: V, S  
+    **Duration**: Instantaneous
+      
+    You create a sphere of swirling water that spins rapidly in
+    your hand or mouth before you hurl it at a creature within
+    range. Make a ranged spell attack against the target. On a
+    hit, the target takes bludgeoning damage based on how far
+    it is away from you.
 
 ## Nakudama Traits
 Your Nakudama character gains traits that enable it to
@@ -103,7 +145,7 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
 
 **_Two-Handed_**. This weapon requires two hands when you attack with it.
 
-**Damage**: 1d8  
+**Damage**: 1d8 (+2 from Ranger Fighting style)
 **Damage Type**: Piercing  
 **Properties**: Ammunition, Range, Two-Handed  
 **Range**: 150/600  
@@ -138,6 +180,13 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
             - If you are traveling alone, you can move stealthily at a normal pace.
             - When you forage, you find twice as much food as you normally would.
             - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+2) Ranger
+    - Max HP increase. Add 1d10 + CON Modifier to the current total Max HP. _Rolled 4, avg 5.5, rounded down to 5. Take 5._
+    - One (1) additional 1d10 Hit Die
+    - Two (2) new 1st level spells from the Ranger spell list
+    - Two (2) new 1st level spell slots
+    - [Fighting Style](https://roll20.net/compendium/dnd5e/Ranger#toc_7): Archery. +2 Bonus to Attack rolls on ranged weapons
+    - [Spellcasting](https://roll20.net/compendium/dnd5e/Ranger#toc_6) 
 
 ## History
 ### Obojima
