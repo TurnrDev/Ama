@@ -53,7 +53,11 @@ target must be no more than 15 feet away from you.
 
 ## Level Ups:
 1) Ranger
-    - Start with: Leather Armour (AC 11 + DEX), 2 Daggers, [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content), a ~~longbow~~ Crossing-Bow (see-below) and a quiver of 20 arrows
+    - Starting Equipment:
+        - Leather Armour (AC 11 + DEX)
+        - 2 Daggers
+        - [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content)
+        - a ~~longbow~~ Crossing-Bow (see-below) and a quiver of 20 arrows
     - Initial HP = 10 + Constitution (CON) Modifier
     - Armor Proficiency: **Light Armor, Medium Armor, Shields**
     - Weapon Proficiency: **Simple Weapons, Martial Weapons**
