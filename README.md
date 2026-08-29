@@ -20,9 +20,9 @@
     - Tool Proficiencies: **Divers Armor**
     - Equipment
         - [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content)
-        - a chest
-        - grappling hook
-        - fishing tackle
+        - a [chest](https://roll20.net/compendium/dnd5e/Items:Chest/#h-Chest)
+        - [grappling hook](https://roll20.net/compendium/dnd5e/Items:Grappling%20hook/#h-Grappling%20hook)
+        - [fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20Tackle#h-Fishing%20Tackle)
         - a faction coin marking which lodge you trained under
         - 11 gold flowers
         - **ONCE A MEMBER ALWAYS A MEMBER**: When visiting either of the _Coastal Diver’s Lodges_, you always have free room and board. Additionally, the lodge will assist you in your endeavors as best they can.
@@ -95,8 +95,8 @@ target must be no more than 15 feet away from you.
 ## Level Ups:
 1) Ranger
     - Starting Equipment:
-        - Leather Armour (AC 11 + DEX)
-        - 2 Daggers
+        - [Leather Armour](https://roll20.net/compendium/dnd5e/Items:Leather%20Armor/#h-Leather%20Armor) (AC 11 + DEX)
+        - 2 [Daggers](https://roll20.net/compendium/dnd5e/Items:Dagger/#h-Dagger)
         - [Dungeoneer's Pack](https://roll20.net/compendium/dnd5e/dungeoneer's%20pack#content)
         - a ~~longbow~~ Crossing-Bow (see-below) and a quiver of 20 arrows
     - Initial HP = 10 + Constitution (CON) Modifier
