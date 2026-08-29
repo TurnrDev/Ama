@@ -93,22 +93,21 @@ one size larger than you, pulling yourself toward it. The
 target must be no more than 15 feet away from you.
 
 ## The Crossing-Bow
-Ranged weapon (martial, flavoured-longbow, looks like a hand-crossbow)
+_Ranged weapon (martial, flavoured-longbow, looks like a hand-crossbow)_
 
-Ammunition. You can use a weapon that has the Ammunition property to make a Ranged Attack only if you have Ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of Ammunition. Drawing the Ammunition from a quiver, case, or other container is part of the Attack. At the end of the battle, you can recover half your expended Ammunition by taking a minute to Search the Battlefield.
+**_Ammunition_**. You can use a weapon that has the Ammunition property to make a Ranged Attack only if you have Ammunition to fire from the weapon. Each time you Attack with the weapon, you expend one piece of Ammunition. Drawing the Ammunition from a quiver, case, or other container is part of the Attack. At the end of the battle, you can recover half your expended Ammunition by taking a minute to Search the Battlefield.
 
 If you use this weapon to make a melee Attack, you treat the weapon as an unarmed strike with disadvantage.
 
-Range. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
+**_Range_**. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon’s normal range in feet, and the second indicates the weapon’s long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can’t attack a target beyond the weapon’s long range.
 
-Two-Handed. This weapon requires two hands when you attack with it.
+**_Two-Handed_**. This weapon requires two hands when you attack with it.
 
-Damage: 1d8
-Damage Type: Piercing
-Properties: Ammunition, Range, Two-Handed
-Range: 150/600
-Weight: 2
-
+**Damage**: 1d8
+**Damage Type**: Piercing
+**Properties**: Ammunition, Range, Two-Handed
+**Range**: 150/600
+**Weight**: 2
 
 ## Level Ups:
 1) Ranger
