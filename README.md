@@ -94,3 +94,10 @@ target must be no more than 15 feet away from you.
     - Choice of Proficiency Bonus to Animal Handling, Athletics, Insight, Investigation, Nature, **Perception**, **Stealth**, and **Survival** (Choose three)
     - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4): Beasts
     - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5): Coast (body of water bigger than 25 miles in width and length, excluding rivers, the line of coast drawn and 2.5 miles in either direction, unless forested or other clear terrain)
+        - Difficult terrain doesn't slow your group's travel.
+        - Your group can't become lost except by magical means.
+        - Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+        - If you are traveling alone, you can move stealthily at a normal pace.
+        - When you forage, you find twice as much food as you normally would.
+        - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
