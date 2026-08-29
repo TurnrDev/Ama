@@ -6,9 +6,9 @@
 
 ## Info
 
-**Race**: Nakudama
-
-**Languages**: Common (from Race), Naku Naku (from Race)
+- **Race**: Nakudama
+- **Class**: Hunter Ranger 3
+- **Languages**: Common (from Race), Naku Naku (from Race)
 
 ## Ability Scores
 - **Strength**: 14
@@ -48,3 +48,8 @@ the object pulled away from it.
 tongue to latch onto a surface or creature that is at least
 one size larger than you, pulling yourself toward it. The
 target must be no more than 15 feet away from you.
+
+## Level Ups:
+1) Ranger
+2) Ranger
+3) Ranger Hunter
