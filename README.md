@@ -13,8 +13,8 @@
 - **Proficiency Bonus**: +2
 
 ## Ability Scores
-- **Strength**: 14 (+2)
-- **Dexterity**: 18 + 2 (from Race ASI) = 20 (+5)
+- _**Strength**_: 14 (+2)
+- _**Dexterity**_: 18 + 2 (from Race ASI) = 20 (+5)
 - **Constitution**: 14 (+2)
 - **Intelligence**: 14 (+2)
 - **Wisdom**: 14 (+2)
@@ -53,6 +53,7 @@ target must be no more than 15 feet away from you.
 
 ## Level Ups:
 1) Ranger
+    - Start with: Leather Armour (AC 11 + DEX), 2 Daggers, [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content), a ~~longbow~~ Crossing-Bow (see-below) and a quiver of 20 arrows
     - Initial HP = 10 + Constitution (CON) Modifier
     - Armor Proficiency: **Light Armor, Medium Armor, Shields**
     - Weapon Proficiency: **Simple Weapons, Martial Weapons**
