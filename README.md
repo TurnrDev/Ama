@@ -1,19 +1,17 @@
 # Amai "Ama" "Sweet Tooth" Monozuki
+Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befriended an amazing Chef who would teach her the basics of how to cook and prepare a tasty meal, and in return, she would hunt for him, and bring him exotic animals. She's far more likely to do something if a sweet treat is on the table. Sweet treats mean far more to Ama than money.
 
 ## Initial Rolls
 
 18, 13, 14, 14, 14, 14
 
 ## Info
-
 - **Race**: Nakudama
 - **Class**: Hunter 1
 - **Languages**: Common (from Race), Naku Naku (from Race)
 - **Hit Points (Max)**: 10 + 2
 - **Proficiency Bonus**: +2
 - **Alignment**: Chaotic Neutral (TBD)
-- **Ideals, Bonds, Flaws**  
-Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befriended an amazing Chef who would teach her the basics of how to cook and prepare a tasty meal, and in return, she would hunt for him, and bring him exotic animals. She's far more likely to do something if a sweet treat is on the table. Sweet treats mean far more to Ama than money.
 - **Background**: Apprentice Diver (Obojima)
     - Skill Proficiencies: **Athletics**, **Nature**
     - Tool Proficiencies: **Divers Armor**
