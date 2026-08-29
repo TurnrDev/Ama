@@ -151,7 +151,7 @@ Shortly after appearing in the forest on Maztica, Ama headed the way she thought
 
 At some point, she met the party and made her way to Evermeet, where they contracted a ship to Murann.
 
-### Murann
+### Faerûn
 This  is now.
 She is Ranger 3 / Bard 2. Her next level up is already decided. 
 
