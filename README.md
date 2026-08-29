@@ -23,7 +23,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
         - [Explorer's Pack](https://roll20.net/compendium/dnd5e/explorer's%20pack#content)
         - ~~a [chest](https://roll20.net/compendium/dnd5e/Items:Chest/#h-Chest)~~ - lost after Blink Dog incident.
         - [grappling hook](https://roll20.net/compendium/dnd5e/Items:Grappling%20hook/#h-Grappling%20hook)
-        - [fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20Tackle#h-Fishing%20Tackle)
+        - ~~[fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20Tackle#h-Fishing%20Tackle)~~ - lost after Blink Dog incident.
         - a faction coin marking which lodge you trained under
         - ~~11 gold flowers (Obojiman Gold coin, worthless in Faerûn)~~ 2 Sea Fetal and 1 Copper Bud
         - **ONCE A MEMBER ALWAYS A MEMBER**: When visiting either of the _Coastal Diver’s Lodges_, you always have free room and board. Additionally, the lodge will assist you in your endeavors as best they can.
