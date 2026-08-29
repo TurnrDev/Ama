@@ -93,4 +93,4 @@ target must be no more than 15 feet away from you.
     - Proficiency Bonus added to STR and DEX saving throws
     - Choice of Proficiency Bonus to Animal Handling, Athletics, Insight, Investigation, Nature, **Perception**, **Stealth**, and **Survival** (Choose three)
     - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4): Beasts
-    - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5): Coast (the line of coast drawn and 2.5 miles in either direction.)
+    - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5): Coast (the line of coast drawn and 2.5 miles in either direction, unless forested or other clear terrain)
