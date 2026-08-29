@@ -52,7 +52,7 @@ Your Nakudama character gains traits that enable it to
 traverse and flourish on the island of Obojima.
 - **Ability Score Increase**. One ability score of your choice
 increases by 2, and another ability score of your choice
-increases by 1.
+increases by 1. (**Dexterity**, **Charisma**)
 - **Age**. Young Nakudama learn to walk and swim in shallow
 waters just a few weeks after birth. They reach adulthood
 by the age of 10 and live an average of 45 years.
