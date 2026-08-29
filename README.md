@@ -7,16 +7,18 @@
 ## Info
 
 - **Race**: Nakudama
-- **Class**: Hunter Ranger 3
+- **Class**: Hunter 1
 - **Languages**: Common (from Race), Naku Naku (from Race)
+- **Hit Points (Max)**: 10 + 2
+- **Proficiency Bonus**: +2
 
 ## Ability Scores
-- **Strength**: 14
-- **Dexterity**: 18 + 2 (from Race ASI) = 20
-- **Constitution**: 14
-- **Intelligence**: 14
-- **Wisdom**: 14
-- **Charisma**: 13 + 1 (from Race ASI) = 14
+- **Strength**: 14 (+2)
+- **Dexterity**: 18 + 2 (from Race ASI) = 20 (+5)
+- **Constitution**: 14 (+2)
+- **Intelligence**: 14 (+2)
+- **Wisdom**: 14 (+2)
+- **Charisma**: 13 + 1 (from Race ASI) = 14 (+2)
 
 
 ## Nakudama Traits
@@ -51,5 +53,13 @@ target must be no more than 15 feet away from you.
 
 ## Level Ups:
 1) Ranger
-2) Ranger
-3) Ranger Hunter
+    - Initial HP = 10 + Constitution (CON) Modifier
+    - Armor Proficiency: **Light Armor, Medium Armor, Shields**
+    - Weapon Proficiency: **Simple Weapons, Martial Weapons**
+    - Tool Proficiency: None
+    - One (1) 1d10 Hit Die
+    - +2 Proficiency Bonus
+    - Proficiency Bonus added to STR and DEX saving throws
+    - Choice of Proficiency Bonus to Animal Handling, Athletics, Insight, Investigation, Nature, **Perception**, **Stealth**, and **Survival** (Choose three)
+    - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4)
+    - [Natural Explorer](https://roll20.net/compendium/dnd5e/Ranger#toc_5)
