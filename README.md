@@ -7,6 +7,7 @@
 ## Info
 
 **Race**: Nakudama
+
 **Languages**: Common (from Race), Naku Naku (from Race)
 
 ## Ability Scores
