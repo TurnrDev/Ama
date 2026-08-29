@@ -12,13 +12,39 @@
 - **Hit Points (Max)**: 10 + 2
 - **Proficiency Bonus**: +2
 
-## Ability Scores
+## Ability Scores & Skills
 - _**Strength**_: 14 (+2)
+    - **Save**: +4 
+    - Athletics: +2
 - _**Dexterity**_: 18 + 2 (from Race ASI) = 20 (+5)
+    - **Save**: +7
+    - Acrobatics: +5
+    - Sleight of Hand: +5
+    - **Stealth**: +7
 - **Constitution**: 14 (+2)
+    - Save: +2
 - **Intelligence**: 14 (+2)
+    - Save: +2
+    - Arcana: +2
+    - History: +2
+    - Investigation: +2
+    - Nature: +2
+    - Religion: +2
+    - Mechanics: +2
+    - Salvage: +2
 - **Wisdom**: 14 (+2)
+    - Save: +2
+    - Animal Handling: +2
+    - Insight: +2
+    - Medicine: +2
+    - **Perception**: +4
+    - **Survival**: +4 
 - **Charisma**: 13 + 1 (from Race ASI) = 14 (+2)
+    - Save: +2
+    - Deception: +2
+    - Intimidation: +2
+    - Performance: +2
+    - Persuasion: +2 
 
 
 ## Nakudama Traits
