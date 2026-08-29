@@ -117,7 +117,7 @@ Weight: 2
           - Ama sold this and bought Bark Armour, which is also 11 + DEX, however this broke during the Blink Dog incident, after which she aquired a new Leather Armour from Maztica before heading to Evermeet)
         - 2 [Daggers](https://roll20.net/compendium/dnd5e/Items:Dagger/#h-Dagger)
         - [Dungeoneer's Pack](https://roll20.net/compendium/dnd5e/dungeoneer's%20pack#content)
-        - a ~~longbow~~ Crossing-Bow (see-above) and a quiver of 20 arrows
+        - a ~~longbow~~ [Crossing-Bow](https://github.com/TurnrDev/Ama/blob/main/README.md#the-crossing-bow) and a quiver of 20 arrows
     - Initial HP = 10 + Constitution (CON) Modifier
     - Armor Proficiency: **Light Armor, Medium Armor, Shields**
     - Weapon Proficiency: **Simple Weapons, Martial Weapons**
