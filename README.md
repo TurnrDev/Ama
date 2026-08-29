@@ -9,12 +9,12 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Race**: Nakudama
 - **Age**: 9 years, 162 days when we reach Murann (Equal to 17 in Human)
 - **Birthday**: Whilst not from Toril, so time flows different, she reaches 10 years of age on PD81, 340th. So her birthday is equal to PD71, 340th. In Obojima, it's sometime before The Corruption. Ama would remember the Corruption starting when she was a child. 
-- **Class**: Ranger (Hunter) 3 / Bard 1
-- **Level**: 4 
+- **Class**: Ranger (Hunter) 3 / Bard 2
+- **Level**: 5
 - **Languages**: Common (from Race), Naku Naku (from Race)
-- **Hit Points (Max)**: 10 + 2 + 5 + 2 + 9 + 2 = 30
-- **Hit Die**: 3d10 + 1d8
-- **Proficiency Bonus**: +2
+- **Hit Points (Max)**: 10 + 3 + 5 + 3 + 9 + 3 + 8 + 3 + 4 + 3 = 51
+- **Hit Die**: 3d10 + 2d8
+- **Proficiency Bonus**: +3
 - **Alignment**: Chaotic Neutral (TBD)
 - **Background**: Apprentice Diver (Obojima)
     - Skill Proficiencies: **Athletics**, **Nature**
@@ -30,31 +30,31 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 
 ## Ability Scores & Skills
 - _**Strength**_: 14 (+2)
-    - **Save**: +4 
-    - **Athletics**: +4
+    - **Save**: +5
+    - **Athletics**: +5
 - _**Dexterity**_: 18 + 2 (from Race ASI) = 20 (+5)
-    - **Save**: +7
+    - **Save**: +8
     - Acrobatics: +5
     - Sleight of Hand: +5
-    - **Stealth**: +7
+    - **Stealth**: +8
 - **Constitution**: 14 (+2)
     - Save: +2
-- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy) / +2 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
+- **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy))
     - Save: +2
     - Arcana: +2
-    - **History**: +2
+    - **History**: +5 (+3 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
     - Investigation: +2
-    - **Nature**: +4
+    - **Nature**: +5 (+3 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
     - Religion: +2
     - Mechanics: +2
     - Salvage: +2
-- **Wisdom**: 14 (+2) (+2 (prof bonus) if about Coasts (Natural Explorer))
+- **Wisdom**: 14 (+2) (+3 (prof bonus) if about Coasts (Natural Explorer))
     - Save: +2
     - Animal Handling: +2
     - Insight: +2
     - Medicine: +2
-    - **Perception**: +4 (+2 (prof bonus) if about Coasts (Natural Explorer))
-    - **Survival**: +4 (Adv on checks to track Beasts (Favored Enemy)) (+2 (prof bonus) if about Coasts (Natural Explorer))
+    - **Perception**: +5 (+3 (prof bonus) if about Coasts (Natural Explorer))
+    - **Survival**: +5 (Adv on checks to track Beasts (Favored Enemy)) (+2 (prof bonus) if about Coasts (Natural Explorer))
 - **Charisma**: 13 + 1 (from Race ASI) = 14 (+2)
     - Save: +2
     - Deception: +2
@@ -65,18 +65,18 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 ## Spellcasting
 ### Ranger
 **Ability**: Wisdom  
-**Save DC**: 8 + 2 (prof) + 2 (wis) = 12  
-**Spell atk mod**: +2 (prof) + 2 (wis) = +4  
+**Save DC**: 8 + 3 (prof) + 2 (wis) = 13  
+**Spell atk mod**: +3 (prof) + 2 (wis) = +5  
 
 ### Bard
 **Ability**: Charisma
-**Save DC**: 8 + 2 (prof) + 2 (cha) = 12  
-**Spell atk mod**: +2 (prof) + 2 (cha) = +4  
+**Save DC**: 8 + 3 (prof) + 2 (cha) = 13  
+**Spell atk mod**: +3 (prof) + 2 (cha) = +5  
 
 ---
 
 ### Slots
-- **1st**: 5
+- **1st**: 6
 
 ### Spells & Cantrips
 #### Cantrips
@@ -262,7 +262,6 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - Weapon Proficiency: **Simple Weapons, Martial Weapons**
     - Tool Proficiency: None
     - One (1) 1d10 Hit Die
-    - +2 Proficiency Bonus
     - Proficiency Bonus added to STR and DEX saving throws
     - Choice of Proficiency Bonus to Animal Handling, Athletics, Insight, Investigation, Nature, **Perception**, **Stealth**, and **Survival** (Choose three)
     - [Favored Enemy](https://roll20.net/compendium/dnd5e/Ranger#toc_4): Beasts
@@ -310,6 +309,13 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - Four (4) 1st level spells from the Bard spell list
     - Two (2) 1st level spell slots
     - [Bardic Inspiration](https://roll20.net/compendium/dnd5e/Bard#toc_4) (Xd6; X=CHA Ability Modifier)
+5) Bard
+    - Max HP increase. Add 1d8 + CON Modifier to the current total Max HP. _Rolled 3, avg 4.5, rounded down to 4. Take 4._
+    - One (1) additional 1d8 Hit Die
+    - One (1) additional 1st level spell from the Bard spell list
+    - One (1) additional 1st level spell slot
+    - [Jack of All Trades](https://roll20.net/compendium/dnd5e/Bard#toc_6)
+    - [Song of Rest](https://roll20.net/compendium/dnd5e/Bard#toc_7)
 
 
 ## History
