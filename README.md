@@ -10,6 +10,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Age**: 9 years, 162 days when we reach Murann (Equal to 17 in Human)
 - **Birthday**: Whilst not from Toril, so time flows different, she reaches 10 years of age on PD81, 340th. So her birthday is equal to PD71, 340th. In Obojima, it's sometime before The Corruption. Ama would remember the Corruption starting when she was a child. 
 - **Class**: Hunter 1
+- **Level**: 1
 - **Languages**: Common (from Race), Naku Naku (from Race)
 - **Hit Points (Max)**: 10 + 2
 - **Proficiency Bonus**: +2
@@ -138,7 +139,7 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
             - When you forage, you find twice as much food as you normally would.
             - While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
 
-## History:
+## History
 ### Obojima
 Ama grew up in Obojima, she was born sometime before the Earthquake which shook the island. Ama grew up in Okiri Village, Obojima. She would travel south to Tidewater to go diving. She had an Elven friend called Hyper, a Bard of the College of Cuisine, she would look up to this old master and bring him her hunt and he would cook her up the best of meals.
 
