@@ -9,11 +9,11 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Race**: Nakudama
 - **Age**: 9 years, 162 days when we reach Murann (Equal to 17 in Human)
 - **Birthday**: Whilst not from Toril, so time flows different, she reaches 10 years of age on PD81, 340th. So her birthday is equal to PD71, 340th. In Obojima, it's sometime before The Corruption. Ama would remember the Corruption starting when she was a child. 
-- **Class**: Hunter 2
-- **Level**: 2
+- **Class**: Ranger (Hunter) 3
+- **Level**: 3
 - **Languages**: Common (from Race), Naku Naku (from Race)
-- **Hit Points (Max)**: 10 + 2 + 5 + 2 = 19
-- **Hit Die**: 2d10
+- **Hit Points (Max)**: 10 + 2 + 5 + 2 + 9 + 2 = 30
+- **Hit Die**: 3d10
 - **Proficiency Bonus**: +2
 - **Alignment**: Chaotic Neutral (TBD)
 - **Background**: Apprentice Diver (Obojima)
@@ -68,7 +68,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 **Spell atk mod**: +2 (prof) + 2 (wis) = +4
 
 ### Slots
-- **1st**: 2
+- **1st**: 3
 
 ### Spells
 - **Hunter's Mark** (Ranger, PHB)  
@@ -196,6 +196,15 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
     - Two (2) new 1st level spell slots
     - [Fighting Style](https://roll20.net/compendium/dnd5e/Ranger#toc_7): Archery. +2 Bonus to Attack rolls on ranged weapons
     - [Spellcasting](https://roll20.net/compendium/dnd5e/Ranger#toc_6) 
+3) Ranger
+    - Max HP increase. Add 1d10 + CON Modifier to the current total Max HP. _Rolled 9._
+    - One (1) additional 1d10 Hit Die
+    - One (1) additional 1st level spell from the Ranger spell list
+    - One (1) additional 1st level spell slot
+    - [Ranger Archetype](https://roll20.net/compendium/dnd5e/Ranger#toc_12): Hunter
+        - **Hunter's Prey: Colossus Slayer**: Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra **1d8** damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
+    - [Primeval Awareness](https://roll20.net/compendium/dnd5e/Ranger#toc_13)  
+      Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
 
 ## History
 ### Obojima
