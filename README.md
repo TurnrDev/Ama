@@ -15,6 +15,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Hit Points (Max)**: 10 + 3 + 5 + 3 + 9 + 3 + 8 + 3 + 4 + 3 = 51
 - **Hit Die**: 3d10 + 2d8
 - **Proficiency Bonus**: +3
+- **Initiative**: +5 + (+3//2) = +6
 - **Alignment**: Chaotic Neutral (TBD)
 - **Background**: Apprentice Diver (Obojima)
     - Skill Proficiencies: **Athletics**, **Nature**
