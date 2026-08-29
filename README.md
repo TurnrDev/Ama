@@ -24,7 +24,7 @@
         - [grappling hook](https://roll20.net/compendium/dnd5e/Items:Grappling%20hook/#h-Grappling%20hook)
         - [fishing tackle](https://roll20.net/compendium/dnd5e/Fishing%20Tackle#h-Fishing%20Tackle)
         - a faction coin marking which lodge you trained under
-        - 11 gold flowers (Obojiman Gold coin, worthless in Faerûn)
+        - ~~11 gold flowers (Obojiman Gold coin, worthless in Faerûn)~~ 2 Sea Fetal and 1 Copper Bud
         - **ONCE A MEMBER ALWAYS A MEMBER**: When visiting either of the _Coastal Diver’s Lodges_, you always have free room and board. Additionally, the lodge will assist you in your endeavors as best they can.
 
 ## Ability Scores & Skills
