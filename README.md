@@ -9,11 +9,11 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Race**: Nakudama
 - **Age**: 9 years, 162 days when we reach Murann (Equal to 17 in Human)
 - **Birthday**: Whilst not from Toril, so time flows different, she reaches 10 years of age on PD81, 340th. So her birthday is equal to PD71, 340th. In Obojima, it's sometime before The Corruption. Ama would remember the Corruption starting when she was a child. 
-- **Class**: Ranger (Hunter) 3
-- **Level**: 3
+- **Class**: Ranger (Hunter) 3 / Bard 1
+- **Level**: 4 
 - **Languages**: Common (from Race), Naku Naku (from Race)
 - **Hit Points (Max)**: 10 + 2 + 5 + 2 + 9 + 2 = 30
-- **Hit Die**: 3d10
+- **Hit Die**: 3d10 + 1d8
 - **Proficiency Bonus**: +2
 - **Alignment**: Chaotic Neutral (TBD)
 - **Background**: Apprentice Diver (Obojima)
@@ -42,7 +42,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Intelligence**: 14 (+2) (Adv on checks to recall information on Beasts (Favored Enemy) / +2 (prof bonus) on skills prof in if about Coasts (Natural Explorer))
     - Save: +2
     - Arcana: +2
-    - History: +2
+    - **History**: +2
     - Investigation: +2
     - **Nature**: +4
     - Religion: +2
@@ -68,7 +68,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 **Spell atk mod**: +2 (prof) + 2 (wis) = +4  
 
 ### Slots
-- **1st**: 3
+- **1st**: 5
 
 ### Spells
 - **Hunter's Mark** (Ranger, PHB)  
@@ -219,6 +219,24 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
         - **Hunter's Prey: Colossus Slayer**: Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra **1d8** damage if it’s below its hit point maximum. You can deal this extra damage only once per turn.
     - [Primeval Awareness](https://roll20.net/compendium/dnd5e/Ranger#toc_13)  
       Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn't reveal the creatures' location or number.
+
+> [!NOTE]
+> Between level 3 and 4, Ama left Obojima and arrived on Toril. Ama can now learn things which where unavailable in Obojima, but is now locked-out of learning new Obojiman spells.
+
+4) Bard
+    - Max HP increase. Add 1d8 + CON Modifier to the current total Max HP. _Rolled 8_
+    - Armor Proficiency: **Light Armor**
+    - Weapon Proficiency: ~~Simple Weapons, Hand Crossbows, Longswords, Rapiers, Shortswords~~
+    - Tool Proficiency: ~~Three~~ **One** musical instruments of your choice: Biwa
+    - One (1) 1d8 Hit Die
+    - ~~Proficiency Bonus added to DEX and CHA saving throws~~
+    - Choice of Proficiency Bonus to any skill (Choose ~~three~~ **one**): **History**
+    - Two (2) Cantrips from the Bard spell list
+    - Four (4) 1st level spells from the Bard spell list
+    - Two (2) 1st level spell slots
+    - Spellcasting Ability (CHA)
+    - [Bardic Inspiration](https://roll20.net/compendium/dnd5e/Bard#toc_4) (Xd6; X=CHA Ability Modifier)
+
 
 ## History
 ### Obojima
