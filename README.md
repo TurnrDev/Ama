@@ -12,7 +12,7 @@ Ama is a foodie and has a sweet tooth. During her time on _Obojima_, she befrien
 - **Class**: Ranger (Hunter) 3 / Bard 2
 - **Level**: 5
 - **Languages**: Common (from Race), Naku Naku (from Race)
-- **Hit Points (Max)**: 10 + 3 + 5 + 3 + 9 + 3 + 8 + 3 + 4 + 3 = 51
+- **Hit Points (Max)**: 10 + 5 + 9 + 8 + 4 + ( CON_MOD(2) * 5 ) = 46
 - **Hit Die**: 3d10 + 2d8
 - **Proficiency Bonus**: +3
 - **Initiative**: +5 + (+3//2) = +6
