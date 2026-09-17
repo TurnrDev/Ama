@@ -332,14 +332,14 @@ If you use this weapon to make a melee Attack, you treat the weapon as an unarme
 
 ## History
 ### Obojima
-Ama grew up in Obojima, she was born sometime before the Earthquake which shook the island. Ama grew up in Okiri Village, Obojima. She would travel south to Tidewater to go diving. She had an Elven friend called Hyper, a Bard of the College of Cuisine, she would look up to this old master and bring him her hunt and he would cook her up the best of meals.
+Ama grew up in Obojima, she was born sometime before the Earthquake which shook the island. Ama grew up in Okiri Village, Obojima. She would travel south to Tidewater to go diving. She had an Dara friend called [Doma](https://github.com/TurnrDev/Ama/blob/main/Doma.md), a Bard of the College of Cuisine, she would look up to this old master and bring him her hunt and he would cook her up the best of meals.
 
 Sometime during her 3rd Level, she was busy hunting near The Corruption and spotted a [Blink Dog](https://roll20.net/compendium/dnd5e/Monsters:Blink%20Dog/#h-Blink%20Dog). During the battle, the Blink Dog had her in his grip and teleported. She was teleported, along with the Blink Dog, to somewhere in a forest in Maztica. It put her down, and teleported again. Ama was beaten and bruised, her armor was broken and she was in a strange place.
 
 ### Toril (Maztica and Evermeet)
 TBD.
 
-Shortly after appearing in the forest on Maztica, Ama headed the way she thought to Hyper. She quickly realized she was somewhere new. She had to cook her own meals, and try to remember everything Hyper taught her. She spends the next 3 levels training to become a Bard of the College of Cuisine. 
+Shortly after appearing in the forest on Maztica, Ama headed the way she thought to Doma. She quickly realized she was somewhere new. She had to cook her own meals, and try to remember everything Doma taught her. She spends the next 3 levels training to become a Bard of the College of Cuisine. 
 
 At some point, she met the party and made her way to Evermeet, where they contracted a ship to Murann.
 
